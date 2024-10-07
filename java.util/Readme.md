@@ -229,6 +229,9 @@ java.util
 
 The Java Collections Framework is one of the most powerful and widely used parts of the `java.util` package. It provides a unified architecture for representing and manipulating collections, allowing developers to work with groups of objects with ease.
 
+<img src="../src/collection-framework.png" alt="image"  >&nbsp;
+
+
 ### List Interface
 
 - **Description:** Represents an ordered collection (also known as a sequence). Lists can contain duplicate elements and provide positional access and search methods.
